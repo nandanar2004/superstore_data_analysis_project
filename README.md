@@ -23,7 +23,7 @@ The project involves data cleaning, preprocessing, statistical analysis, and dat
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Google Colab
 
 ## 📂 Dataset Description
 
