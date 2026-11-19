@@ -116,12 +116,12 @@ Used Matplotlib and Seaborn to create:
 ```text
 superstore_data_analysis_project/
 │
-├── project1_superstore_dataanalysis.ipynb
+├── project1_superstore_dataanalysis(1).ipynb
 ├── train.csv
 └── README.md
 ```
 
-*Update the filenames to match the files uploaded to GitHub.*
+
 
 ## 🚀 Conclusion
 
